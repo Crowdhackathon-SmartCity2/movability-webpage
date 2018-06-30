@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <ramps>
+	<ramp ID="r1">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.7908269278295</latitude>
+		<longitude>26.697643608265253</longitude>
+	</ramp>
+	<ramp ID="r2">
+		<description></description>
+		<difficultness>Δύσκολη</difficultness>
+		<latitude>37.792663594906756</latitude>
+		<longitude>26.70092737629102</longitude>
+	</ramp>
+	<ramp ID="r3">
+		<description></description>
+		<difficultness>Δύσκολη</difficultness>
+		<latitude>37.79272526112166</latitude>
+		<longitude>26.700946739286792</longitude>
+	</ramp>
+	<ramp ID="r4">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.792528833306406</latitude>
+		<longitude>26.70091043295588</longitude>
+	</ramp>
+	<ramp ID="r5">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.792053480652136</latitude>
+		<longitude>26.701522702210923</longitude>
+	</ramp>
+	<ramp ID="r6">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.792528833306406</latitude>
+		<longitude>26.70091043295588</longitude>
+	</ramp>
+	<ramp ID="r7">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79148152139504</latitude>
+		<longitude>26.704190006485987</longitude>
+	</ramp>
+	<ramp ID="r8">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79148152139504</latitude>
+		<longitude>26.704190006485987</longitude>
+	</ramp>
+	<ramp ID="r9">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79148480846683</latitude>
+		<longitude>26.704309272527325</longitude>
+	</ramp>
+	<ramp ID="r10">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79153141377081</latitude>
+		<longitude>26.704353529328387</longitude>
+	</ramp>
+	<ramp ID="r11">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79165211378183</latitude>
+		<longitude>26.70459065156456</longitude>
+	</ramp>
+	<ramp ID="r12">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79148736996237</latitude>
+		<longitude>26.704704577746497</longitude>
+	</ramp>
+	<ramp ID="r13">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79148736996237</latitude>
+		<longitude>26.704704577746497</longitude>
+	</ramp>
+	<ramp ID="r14">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.791884343920415</latitude>
+		<longitude>26.705044243842394</longitude>
+	</ramp>
+	<ramp ID="r15">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79187404579744</latitude>
+		<longitude>26.70502688699196</longitude>
+	</ramp>
+	<ramp ID="r16">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79212275187425</latitude>
+		<longitude>26.704980754379108</longitude>
+	</ramp>
+	<ramp ID="r17">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79214819383764</latitude>
+		<longitude>26.705031932349016</longitude>
+	</ramp>
+	<ramp ID="r18">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79212275187425</latitude>
+		<longitude>26.704980754379108</longitude>
+	</ramp>
+	<ramp ID="r19">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79224001339392</latitude>
+		<longitude>26.70543019580157</longitude>
+	</ramp>
+	<ramp ID="r20">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79212275187425</latitude>
+		<longitude>26.704980754379108</longitude>
+	</ramp>
+	<ramp ID="r21">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79463961509275</latitude>
+		<longitude>26.7062929350825</longitude>
+	</ramp>
+	<ramp ID="r22">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79484132992733</latitude>
+		<longitude>26.706840573792874</longitude>
+	</ramp>
+	<ramp ID="r23">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.795037062772785</latitude>
+		<longitude>26.7079386021976</longitude>
+	</ramp>
+	<ramp ID="r24">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79507600009754</latitude>
+		<longitude>26.707683982157278</longitude>
+	</ramp>
+	<ramp ID="r25">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79471495990952</latitude>
+		<longitude>26.706959005108274</longitude>
+	</ramp>
+	<ramp ID="r26">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79507600009754</latitude>
+		<longitude>26.707683982157278</longitude>
+	</ramp>
+	<ramp ID="r27">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79598711536025</latitude>
+		<longitude>26.70734223405043</longitude>
+	</ramp>
+	<ramp ID="r28">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79604788804466</latitude>
+		<longitude>26.707370511045042</longitude>
+	</ramp>
+	<ramp ID="r29">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.7961643771379</latitude>
+		<longitude>26.70731172021283</longitude>
+	</ramp>
+	<ramp ID="r30">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.7961643771379</latitude>
+		<longitude>26.70731172021283</longitude>
+	</ramp>
+	<ramp ID="r31">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79669263026865</latitude>
+		<longitude>26.707064611361943</longitude>
+	</ramp>
+	<ramp ID="r32">
+		<description></description>
+		<difficultness>Δύσκολη</difficultness>
+		<latitude>37.79729480979751</latitude>
+		<longitude>26.706801005711895</longitude>
+	</ramp>
+	<ramp ID="r33">
+		<description></description>
+		<difficultness>Δύσκολη</difficultness>
+		<latitude>37.797406734713896</latitude>
+		<longitude>26.7067323455027</longitude>
+	</ramp>
+	<ramp ID="r34">
+		<description></description>
+		<difficultness>Δύσκολη</difficultness>
+		<latitude>37.79730371312324</latitude>
+		<longitude>26.70694831101855</longitude>
+	</ramp>
+	<ramp ID="r35">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79735548958137</latitude>
+		<longitude>26.706851738197543</longitude>
+	</ramp>
+	<ramp ID="r36">
+		<description></description>
+		<difficultness>Δύσκολη</difficultness>
+		<latitude>37.797406734713896</latitude>
+		<longitude>26.7067323455027</longitude>
+	</ramp>
+	<ramp ID="r37">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79667994092592</latitude>
+		<longitude>26.705104344687243</longitude>
+	</ramp>
+	<ramp ID="r38">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79644164508696</latitude>
+		<longitude>26.705055818064807</longitude>
+	</ramp>
+	<ramp ID="r39">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79609275805567</latitude>
+		<longitude>26.70528085459432</longitude>
+	</ramp>
+	<ramp ID="r40">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.796867788099185</latitude>
+		<longitude>26.704698956402126</longitude>
+	</ramp>
+	<ramp ID="r41">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79688117661394</latitude>
+		<longitude>26.704632083075467</longitude>
+	</ramp>
+	<ramp ID="r42">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79617080970794</latitude>
+		<longitude>26.704663964932706</longitude>
+	</ramp>
+	<ramp ID="r43">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.796096642768624</latitude>
+		<longitude>26.704672457054016</longitude>
+	</ramp>
+	<ramp ID="r44">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79603306017167</latitude>
+		<longitude>26.7047811780742</longitude>
+	</ramp>
+	<ramp ID="r45">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79611292299573</latitude>
+		<longitude>26.704767654572606</longitude>
+	</ramp>
+	<ramp ID="r46">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.795881024252125</latitude>
+		<longitude>26.704812862703534</longitude>
+	</ramp>
+	<ramp ID="r47">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.795205979221684</latitude>
+		<longitude>26.704698154922426</longitude>
+	</ramp>
+	<ramp ID="r48">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79513181608921</latitude>
+		<longitude>26.704729177070817</longitude>
+	</ramp>
+	<ramp ID="r49">
+		<description></description>
+		<difficultness>Δύσκολη</difficultness>
+		<latitude>37.79501176612912</latitude>
+		<longitude>26.704731327354466</longitude>
+	</ramp>
+	<ramp ID="r50">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79490049345166</latitude>
+		<longitude>26.704736499439036</longitude>
+	</ramp>
+	<ramp ID="r51">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79441991831192</latitude>
+		<longitude>26.70477537180045</longitude>
+	</ramp>
+	<ramp ID="r52">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.794295740093524</latitude>
+		<longitude>26.70478077882592</longitude>
+	</ramp>
+	<ramp ID="r53">
+		<description></description>
+		<difficultness>Δύσκολη</difficultness>
+		<latitude>37.79401916219447</latitude>
+		<longitude>26.704833746473014</longitude>
+	</ramp>
+	<ramp ID="r54">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79343873788349</latitude>
+		<longitude>26.70485609293337</longitude>
+	</ramp>
+	<ramp ID="r55">
+		<description></description>
+		<difficultness>Δύσκολη</difficultness>
+		<latitude>37.79378484573103</latitude>
+		<longitude>26.704866955491752</longitude>
+	</ramp>
+	<ramp ID="r56">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.793482528077405</latitude>
+		<longitude>26.704850563000946</longitude>
+	</ramp>
+	<ramp ID="r57">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79336231992811</latitude>
+		<longitude>26.70486508348165</longitude>
+	</ramp>
+	<ramp ID="r58">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>37.79288368064424</latitude>
+		<longitude>26.705130327761708</longitude>
+	</ramp>
+	<ramp ID="r59">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>37.79393714503564</latitude>
+		<longitude>26.698746344790834</longitude>
+	</ramp>
+	<ramp ID="r60">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.98938956046963</latitude>
+		<longitude>22.873610051488868</longitude>
+	</ramp>
+	<ramp ID="r61">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.98945201200954</latitude>
+		<longitude>22.874022866735118</longitude>
+	</ramp>
+	<ramp ID="r62">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.9893251454764</latitude>
+		<longitude>22.873149173329466</longitude>
+	</ramp>
+	<ramp ID="r63">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>40.9886582239891</latitude>
+		<longitude>22.87324482888357</longitude>
+	</ramp>
+	<ramp ID="r64">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>40.988753594972955</latitude>
+		<longitude>22.87325926618746</longitude>
+	</ramp>
+	<ramp ID="r65">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.98818100857478</latitude>
+		<longitude>22.873323770568277</longitude>
+	</ramp>
+	<ramp ID="r66">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.98818100857478</latitude>
+		<longitude>22.873323770568277</longitude>
+	</ramp>
+	<ramp ID="r67">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.9887558128288</latitude>
+		<longitude>22.87420062077331</longitude>
+	</ramp>
+	<ramp ID="r68">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.989112253103166</latitude>
+		<longitude>22.87428432975321</longitude>
+	</ramp>
+	<ramp ID="r69">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.991664009394015</latitude>
+		<longitude>22.873445058108473</longitude>
+	</ramp>
+	<ramp ID="r70">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99171878078648</latitude>
+		<longitude>22.873592096564494</longitude>
+	</ramp>
+	<ramp ID="r71">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>40.991823584694956</latitude>
+		<longitude>22.873455727783835</longitude>
+	</ramp>
+	<ramp ID="r72">
+		<description></description>
+		<difficultness>Μέτρια</difficultness>
+		<latitude>40.99153808182765</latitude>
+		<longitude>22.87285256902237</longitude>
+	</ramp>
+	<ramp ID="r73">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99197922470187</latitude>
+		<longitude>22.872626563412155</longitude>
+	</ramp>
+	<ramp ID="r74">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99207616689705</latitude>
+		<longitude>22.87273263261318</longitude>
+	</ramp>
+	<ramp ID="r75">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.992168291534696</latitude>
+		<longitude>22.872743069504622</longitude>
+	</ramp>
+	<ramp ID="r76">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99208878482088</latitude>
+		<longitude>22.872732380636535</longitude>
+	</ramp>
+	<ramp ID="r77">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99236542220493</latitude>
+		<longitude>22.87324016586922</longitude>
+	</ramp>
+	<ramp ID="r78">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.992418596986944</latitude>
+		<longitude>22.873340151555226</longitude>
+	</ramp>
+	<ramp ID="r79">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.992790845120254</latitude>
+		<longitude>22.874295489112</longitude>
+	</ramp>
+	<ramp ID="r80">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99284143557768</latitude>
+		<longitude>22.87428893229253</longitude>
+	</ramp>
+	<ramp ID="r81">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.992892638795915</latitude>
+		<longitude>22.874291646485972</longitude>
+	</ramp>
+	<ramp ID="r82">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99289704797749</latitude>
+		<longitude>22.87430968650824</longitude>
+	</ramp>
+	<ramp ID="r83">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99284143557768</latitude>
+		<longitude>22.87428893229253</longitude>
+	</ramp>
+	<ramp ID="r84">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.992843031584904</latitude>
+		<longitude>22.874387509082794</longitude>
+	</ramp>
+	<ramp ID="r85">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.992843031584904</latitude>
+		<longitude>22.874387509082794</longitude>
+	</ramp>
+	<ramp ID="r86">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99405283993947</latitude>
+		<longitude>22.875369093439986</longitude>
+	</ramp>
+	<ramp ID="r87">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99408357749938</latitude>
+		<longitude>22.87544347379219</longitude>
+	</ramp>
+	<ramp ID="r88">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.992843031584904</latitude>
+		<longitude>22.874387509082794</longitude>
+	</ramp>
+	<ramp ID="r89">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.994771997607494</latitude>
+		<longitude>22.875974081771346</longitude>
+	</ramp>
+	<ramp ID="r90">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99476500801276</latitude>
+		<longitude>22.87592818586495</longitude>
+	</ramp>
+	<ramp ID="r91">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.994754158146655</latitude>
+		<longitude>22.875959237561233</longitude>
+	</ramp>
+	<ramp ID="r92">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99479720674601</latitude>
+		<longitude>22.875927953552832</longitude>
+	</ramp>
+	<ramp ID="r93">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99537066318008</latitude>
+		<longitude>22.87638283983631</longitude>
+	</ramp>
+	<ramp ID="r94">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99542590655706</latitude>
+		<longitude>22.876380984183697</longitude>
+	</ramp>
+	<ramp ID="r95">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.9953806596006</latitude>
+		<longitude>22.876437410562744</longitude>
+	</ramp>
+	<ramp ID="r96">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.995386113163114</latitude>
+		<longitude>22.876458896062672</longitude>
+	</ramp>
+	<ramp ID="r97">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>0</latitude>
+		<longitude>0</longitude>
+	</ramp>
+	<ramp ID="r98">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99539953881619</latitude>
+		<longitude>22.87647647326844</longitude>
+	</ramp>
+	<ramp ID="r99">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99640820929378</latitude>
+		<longitude>22.886474274769066</longitude>
+	</ramp>
+	<ramp ID="r100">
+		<description></description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.996488780313786</latitude>
+		<longitude>22.88637611498792</longitude>
+	</ramp>
+
+    </ramps>
+    <park_seats>
+	<park_seat ID="p1">
+	<description>123</description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99542590655555</latitude>
+		<longitude>22.876380984134587</longitude>
+	</park_seat>
+    </park_seats>
+    <park_ramps>
+	<park_ramp ID="pr1">
+		<description>123</description>
+		<difficultness>Εύκολη</difficultness>
+		<latitude>40.99542590656663</latitude>
+		<longitude>22.876380984183666</longitude>
+	</park_ramp>
+    </park_ramps>
+</data>
